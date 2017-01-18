@@ -3,3 +3,6 @@ Install GitHub desktop interface
 Write a basic static website
 
 Figure out how to activate the website (might be through gh-page?)
+
+Link GoogleSurvey sheets for Users to input data (names, institutions, resarch interests, Google Profiles)
+Use a python or sheel script to batch convert GoogleSurvey data Webpages. 
